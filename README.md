@@ -1,9 +1,9 @@
 ### Oii! Eu sou o Jefferson Souza Silva👋
 
 - 🔭 Hoje trabalho com Supply Chain e Fron-end
-- 🌱 Estudando Java Script
+- 🌱 Estudando TypeScript
 - 💬 Contate-me no e-mail: jefferson.souzasilva777@gmail.com
-- 😄 Pronouns: ele/dele
+- 😄 Pronome: ele/dele
 
 <div>
   <a href="https://github.com/jeffersonsouzasilva">
@@ -17,7 +17,8 @@
   <img align="center" alt="Jeff-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jeff-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jeff-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Jeff-Node.Js"  height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img align="center" alt="Jeff-Node.Js"  height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  />
+  <img align="center" alt="Jeff-Ts"  height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  />
 </div>
 
  ##
