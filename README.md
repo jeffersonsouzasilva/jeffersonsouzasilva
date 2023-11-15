@@ -1,8 +1,8 @@
 ### Oii! Eu sou o Jefferson Souza Silva👋
 
-- 🔭 Hoje trabalho com Supply Chain e Fron-end
-- 🌱 Estudando API Rest
-- 💬 Contate-me no e-mail: jefferson.souzasilva777@gmail.com
+- 💻 Hoje trabalho com Supply Chain e Fron-end 
+- 📚 Estudando API Rest
+- 📧 Contate-me no e-mail: jefferson.souzasilva777@gmail.com
 - 😄 Pronome: ele/dele
 
 <div>
@@ -14,14 +14,16 @@
 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Jeff-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Jeff-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Jeff-Figma" height="30" width="40" src="https://devicons.railway.app/i/figma.svg">
+<!--   <img align="center" alt="Jeff-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Jeff-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  -->
   <img align="center" alt="Jeff-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jeff-Node.Js"  height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  />
-  <img align="center" alt="Jeff-React.Js"  height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"  />
+  <img align="center" alt="Jeff-React.Js"  height="30" width="40"  src="https://icongr.am/devicon/react-original.svg?size=148&color=currentColor"  />
   <img align="center" alt="Jeff-Ts"  height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  />
-  <img align="center" alt="Jeff-Java"  height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg"  />
-  <img align="center" alt="Jeff-MySQL"  height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg"  />
+  <img align="center" alt="Jeff-Java"  height="40" width="40"  src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor"  />
+  <img align="center" alt="Jeff-MySQL"  height="50" width="60"  src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=148&color=currentColor"  />
+  <img align="center" alt="Jeff-SpringBoot"  height="30" width="40"  src="https://devicons.railway.app/i/spring.svg"  />
 </div>
 
  ##
