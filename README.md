@@ -1,7 +1,7 @@
 ### Oii! Eu sou o Jefferson Souza Silva👋
 
 - 🔭 Hoje trabalho com Supply Chain e Fron-end
-- 🌱 Estudando TypeScript
+- 🌱 Estudando API Rest
 - 💬 Contate-me no e-mail: jefferson.souzasilva777@gmail.com
 - 😄 Pronome: ele/dele
 
@@ -18,7 +18,10 @@
   <img align="center" alt="Jeff-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jeff-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jeff-Node.Js"  height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  />
+  <img align="center" alt="Jeff-React.Js"  height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"  />
   <img align="center" alt="Jeff-Ts"  height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  />
+  <img align="center" alt="Jeff-Java"  height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg"  />
+  <img align="center" alt="Jeff-MySQL"  height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg"  />
 </div>
 
  ##
